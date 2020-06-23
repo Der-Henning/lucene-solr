@@ -1,1 +1,1 @@
-web: bin/solr start
+web: solr/bin/solr start
